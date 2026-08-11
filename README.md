@@ -11,7 +11,7 @@ I build modern web applications with a focus on **clean architecture, RESTful AP
 - 💻 Full-Stack Web Developer
 - ⚛️ Building modern applications with **React & Next.js**
 - 🟢 Developing backend systems with **Node.js & Express.js**
-- 🗄️ Working with **MySQL & MongoDB**
+- 🗄️ Working with **MySQL**
 - 🔐 Building authentication systems with **JWT, refresh tokens & bcrypt**
 - 🧩 Interested in **backend architecture, API design & database design**
 - 🌱 Continuously improving my **software engineering and system design** skills
@@ -41,7 +41,7 @@ I build modern web applications with a focus on **clean architecture, RESTful AP
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysqls" />
 </p>
 
 ### 🔐 Authentication & APIs
