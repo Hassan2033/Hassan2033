@@ -41,7 +41,7 @@ I build modern web applications with a focus on **clean architecture, RESTful AP
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysqls" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🔐 Authentication & APIs
