@@ -8,19 +8,19 @@ I build modern web applications with a focus on **clean architecture, RESTful AP
 
 ## 🚀 About Me
 
-* 💻 Full-Stack Web Developer
-* ⚛️ Building modern applications with **React & Next.js**
-* 🟢 Developing backend systems with **Node.js & Express.js**
-* 🗄️ Working with **MySQL & MongoDB**
-* 🔐 Building authentication systems using **JWT, refresh tokens & bcrypt**
-* 🧩 Interested in **backend architecture, API design & database design**
-* 🌱 Continuously improving my **software engineering and system design** skills
+- 💻 Full-Stack Web Developer
+- ⚛️ Building modern applications with **React & Next.js**
+- 🟢 Developing backend systems with **Node.js & Express.js**
+- 🗄️ Working with **MySQL & MongoDB**
+- 🔐 Building authentication systems with **JWT, refresh tokens & bcrypt**
+- 🧩 Interested in **backend architecture, API design & database design**
+- 🌱 Continuously improving my **software engineering and system design** skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
@@ -48,17 +48,19 @@ I build modern web applications with a focus on **clean architecture, RESTful AP
 
 <p>
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/bcrypt-338033?style=for-the-badge)
 
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
+
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
@@ -66,19 +68,19 @@ I build modern web applications with a focus on **clean architecture, RESTful AP
 
 My current backend focus includes:
 
-* RESTful API architecture
-* Route & controller separation
-* Express.js middleware
-* JWT authentication
-* Access & refresh token architecture
-* Protected routes
-* Password hashing with bcrypt
-* Authentication & authorization
-* MySQL database design
-* Environment configuration
-* API error handling
-* CORS configuration
-* Secure API development
+- RESTful API architecture
+- Express.js middleware
+- Route & controller separation
+- JWT authentication
+- Access & refresh token architecture
+- Protected routes
+- Authentication & authorization
+- Password hashing with bcrypt
+- MySQL database design
+- Environment configuration
+- CORS configuration
+- API error handling
+- Secure API development
 
 ---
 
@@ -86,18 +88,20 @@ My current backend focus includes:
 
 ### ✈️ TripNest — Smart Travel Booking Platform
 
-A travel booking platform developed with features such as:
+A smart travel booking platform built around a real-world travel experience.
 
-* Authentication
-* Wishlist
-* Booking preview
-* Interactive maps
-* Digital boarding pass
-* QR code functionality
-* PDF generation
-* Responsive interface
+**Features:**
 
-**Focus:** Frontend development • APIs • UI/UX • Real-world application architecture
+- 🔐 User authentication
+- ❤️ Wishlist
+- 🎫 Booking preview
+- 🗺️ Interactive map
+- 🎟️ Digital boarding pass
+- 🔳 QR code functionality
+- 📄 PDF generation
+- 📱 Responsive interface
+
+**Focus:** Frontend development • APIs • UI/UX • Real-world application development
 
 ---
 
@@ -105,7 +109,8 @@ A travel booking platform developed with features such as:
 
 A practical web application project focused on solving a real-world problem through a structured web interface.
 
-**Repository:** [View Repository](https://github.com/Hassan2033/FixFinders)
+🔗 **Repository:**  
+https://github.com/Hassan2033/FixFinders
 
 ---
 
@@ -113,23 +118,21 @@ A practical web application project focused on solving a real-world problem thro
 
 A web development project focused on building a functional application with a modern frontend.
 
-**Repository:** [View Repository](https://github.com/Hassan2033/vision-project)
+🔗 **Repository:**  
+https://github.com/Hassan2033/vision-project
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan2033&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan2033&layout=compact&hide_border=true" height="165" />
-</p>
 
----
+![GitHub Followers](https://img.shields.io/github/followers/Hassan2033?style=for-the-badge&logo=github)
 
-## 🔥 Contribution Streak
+![GitHub Stars](https://img.shields.io/github/stars/Hassan2033?style=for-the-badge&logo=github)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hassan2033&hide_border=true" />
+![GitHub Repositories](https://img.shields.io/badge/Repositories-Open_Source-181717?style=for-the-badge&logo=github)
+
 </p>
 
 ---
@@ -137,12 +140,15 @@ A web development project focused on building a functional application with a mo
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan2033&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan2033&hide_border=true"
+    alt="Hassan's GitHub Contribution Activity"
+  />
 </p>
 
 ---
 
-## 🏗️ Current Development Focus
+## 🎯 Current Development Focus
 
 ```text
 Next.js
@@ -164,55 +170,3 @@ Testing
 Docker & CI/CD
    ↓
 System Design
-```
-
----
-
-## 🧠 Engineering Principles
-
-```text
-Clean Code
-    +
-Separation of Concerns
-    +
-Secure Authentication
-    +
-Good Database Design
-    +
-Reusable Components
-    +
-Well-Designed APIs
-    +
-Continuous Learning
-```
-
----
-
-## 📚 Currently Learning
-
-* Advanced Next.js
-* TypeScript
-* Backend architecture
-* API design
-* Authentication & authorization
-* Database optimization
-* Automated testing
-* Docker
-* CI/CD
-* System design
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Hassan2033">
-    <img src="https://img.shields.io/badge/GitHub-Hassan2033-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Build. Learn. Improve.</b>
-</p>
