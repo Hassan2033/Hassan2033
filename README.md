@@ -1,48 +1,53 @@
 # 👋 Hi, I'm Hassan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+React+Developer;Node.js+%7C+Express.js+Developer;Backend+%26+API+Developer;Building+Real-World+Web+Applications" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=HASSAN%20FAYYAZ&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Next.js+%7C+React+Developer;Node.js+%7C+Express.js+Developer;Backend+%26+API+Developer;Building+Real-World+Web+Applications" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Hassan2033">
-    <img src="https://img.shields.io/github/followers/Hassan2033?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Hassan2033-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Hassan2033?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-161B22?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Projects-Explore-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 Who Am I?
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
-### 👨‍💻 Full-Stack Developer
+### 🚀 Full-Stack Developer
 
-I build modern web applications with a focus on:
+I build modern web applications by combining **frontend engineering, backend development, APIs, authentication, and databases**.
 
-* ⚛️ **React & Next.js**
-* 🟢 **Node.js & Express.js**
-* 🗄️ **MySQL & MongoDB**
-* 🔐 **JWT Authentication**
-* 🔄 **Access & Refresh Tokens**
-* 🌐 **RESTful APIs**
-* 🧩 **Backend Architecture**
-* 📱 **Responsive UI**
+My current development path is centered around:
 
-I'm focused on turning ideas into **clean, functional and scalable web applications**.
+* ⚛️ React & Next.js
+* 🟦 TypeScript
+* 🟢 Node.js & Express.js
+* 🗄️ MySQL & MongoDB
+* 🔐 JWT Authentication
+* 🔄 Refresh Token Architecture
+* 🌐 RESTful APIs
+* 🧩 Backend Architecture
+
+I'm focused on becoming a developer who can understand the **complete application lifecycle**, from UI to API to database.
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
-```text
-const developer = {
-  name: "Hassan",
+```js
+const hassan = {
   role: "Full-Stack Developer",
 
   frontend: [
@@ -56,12 +61,19 @@ const developer = {
     "Express.js"
   ],
 
-  database: [
+  databases: [
     "MySQL",
     "MongoDB"
   ],
 
-  focus: "Building"
+  architecture: [
+    "REST APIs",
+    "JWT Auth",
+    "MVC"
+  ],
+
+  mindset:
+    "Build • Learn • Improve"
 };
 ```
 
@@ -71,184 +83,263 @@ const developer = {
 
 ---
 
-# 🧠 Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🔐 Authentication & APIs
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge" />
-
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
----
-
-# 🚀 What I Build
+# ⚡ What I Build
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-### ⚛️ Frontend
+<td align="center" width="25%">
 
-Modern responsive interfaces
+### 🎨
 
-**React**
-**Next.js**
-**TypeScript**
-**Tailwind CSS**
+## Frontend
 
-</td>
+Modern interfaces
 
-<td align="center" width="33%">
-
-### ⚙️ Backend
-
-Scalable server-side applications
-
-**Node.js**
-**Express.js**
-**REST APIs**
-**Middleware**
+React
+Next.js
+TypeScript
+Tailwind CSS
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🔐 Security
+### ⚙️
 
-Secure authentication systems
+## Backend
 
-**JWT**
-**Refresh Tokens**
-**bcrypt**
-**Protected Routes**
+Application servers
+
+Node.js
+Express.js
+REST APIs
+Middleware
 
 </td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+## Security
+
+Authentication systems
+
+JWT
+bcrypt
+Refresh Tokens
+Protected Routes
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+## Data
+
+Database systems
+
+MySQL
+MongoDB
+Relationships
+Queries
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🔐 Backend Engineering
+# 🛠️ Technology Arsenal
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+</p>
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+## ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## 🔐 APIs & Authentication
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge" />
+
+</p>
+
+## 🧰 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+# 🏗️ Full-Stack Architecture
+
+<p align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│                  CLIENT                      │
+│              React / Next.js                 │
+└──────────────────────┬───────────────────────┘
+                       │
+                       │ HTTP / REST
+                       ▼
+┌──────────────────────────────────────────────┐
+│                    API                       │
+│              Node.js / Express               │
+├──────────────────────────────────────────────┤
+│ Routes → Middleware → Controllers            │
+│ Authentication → Validation → Error Handler  │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                 DATABASE                     │
+│              MySQL / MongoDB                 │
+└──────────────────────────────────────────────┘
+```
+
+</p>
+
+---
+
+# 🔐 Authentication Architecture
+
+### Registration
+
+```text
+User
+ │
+ ▼
+Register API
+ │
+ ▼
+Validate Input
+ │
+ ▼
+bcrypt.hash()
+ │
+ ▼
+Database
+ │
+ ▼
+Account Created
+```
+
+### Login
+
+```text
+User
+ │
+ ▼
+Login API
+ │
+ ▼
+Find User
+ │
+ ▼
+bcrypt.compare()
+ │
+ ▼
+Generate Access Token
+ │
+ ▼
+Generate Refresh Token
+ │
+ ▼
+Authenticated Session
+```
+
+### Protected Request
 
 ```text
 Client
-  │
-  ▼
-Next.js / React
-  │
-  │ HTTP Request
-  ▼
-REST API
-  │
-  ▼
-Express.js
-  │
-  ├── Middleware
-  │
-  ├── Authentication
-  │
-  ├── Controllers
-  │
-  └── Routes
-  │
-  ▼
-Database
-  │
-  ├── MySQL
-  └── MongoDB
-```
-
-### 🔑 Authentication Architecture
-
-```text
-Register
-   │
-   ▼
-Password
-   │
-   ▼
-bcrypt Hash
-   │
-   ▼
-Database
-```
-
-```text
-Login
-   │
-   ▼
-Credentials
-   │
-   ▼
-bcrypt.compare()
-   │
-   ▼
-Access Token
-   │
-   ▼
-Protected API
-```
-
-```text
-Access Token
-    │
-    │ expires
-    ▼
-Refresh Token
-    │
-    ▼
-New Access Token
+ │
+ │ Authorization: Bearer <access_token>
+ ▼
+Auth Middleware
+ │
+ ▼
+jwt.verify()
+ │
+ ├── Invalid → 401
+ │
+ └── Valid
+       │
+       ▼
+    Controller
+       │
+       ▼
+    Response
 ```
 
 ---
 
-# 🌟 Featured Projects
+# 🔄 Backend Development Flow
+
+```text
+Requirement
+     ↓
+API Design
+     ↓
+Route
+     ↓
+Middleware
+     ↓
+Controller
+     ↓
+Business Logic
+     ↓
+Database
+     ↓
+Validation
+     ↓
+Error Handling
+     ↓
+Response
+```
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## ✈️ TripNest
 
 ### Smart Travel Booking Platform
 
-A real-world travel booking application focused on a complete digital travel experience.
+A real-world travel platform designed around the complete booking experience.
 
-**Features**
+### Features
 
 * 🔐 Authentication
 * ❤️ Wishlist
@@ -259,52 +350,78 @@ A real-world travel booking application focused on a complete digital travel exp
 * 📄 PDF Generation
 * 📱 Responsive UI
 
+### Focus
+
+`Frontend` `APIs` `UI/UX` `Real-World Application`
+
 </td>
 
 <td width="50%">
 
 ## 🔧 FixFinders
 
-### Real-World Web Application
+### Practical Web Application
 
-A practical web application project focused on solving a real-world problem through a structured and user-friendly interface.
+A real-world application project focused on solving a practical problem through a structured web experience.
 
-🔗 **Repository**
+### Focus
 
-https://github.com/Hassan2033/FixFinders
+* Modern frontend
+* Structured application flow
+* Responsive interface
+* Real-world problem solving
+
+### Repository
+
+**[→ View FixFinders](https://github.com/Hassan2033/FixFinders)**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ## 👁️ Vision Project
 
 ### Web Application
 
-A web development project focused on building a functional application with a modern frontend and structured project architecture.
+A web development project focused on creating a functional application with a modern frontend.
 
-🔗 **Repository**
+### Focus
 
-https://github.com/Hassan2033/vision-project
+* Frontend development
+* Application structure
+* Responsive UI
+* Practical implementation
+
+### Repository
+
+**[→ View Vision Project](https://github.com/Hassan2033/vision-project)**
 
 </td>
 
 <td width="50%">
 
-### 🚧 More Projects
+## 🚧 More Coming
 
-Currently building and improving full-stack applications around:
+Currently expanding my portfolio with projects around:
 
-* Next.js
-* Express.js
-* MySQL
-* Authentication
-* REST APIs
-* Full-stack architecture
+`Next.js`
+
+`Express.js`
+
+`MySQL`
+
+`Authentication`
+
+`REST APIs`
+
+`Full-Stack Architecture`
 
 </td>
+
 </tr>
 </table>
 
@@ -315,105 +432,156 @@ Currently building and improving full-stack applications around:
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan2033&hide_border=true&area=true"
-    alt="Hassan's GitHub Activity"
+    alt="Hassan's GitHub Activity Graph"
+    width="100%"
   />
-</p>
-
----
-
-# 📈 Development Journey
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=HTML+%2B+CSS;JavaScript;React;Next.js;Node.js;Express.js;MySQL+%2B+MongoDB;Authentication;REST+APIs;Full-Stack+Development;System+Design" alt="Development Journey" />
 </p>
 
 ---
 
 # 🎯 Current Focus
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Advanced+Next.js;TypeScript;Backend+Architecture;REST+API+Design;Authentication+%26+Authorization;Database+Design;Testing;Docker+%26+CI%2FCD;System+Design" alt="Current Focus" />
+</p>
+
+---
+
+# 📚 Development Roadmap
+
+```text
+                    FULL-STACK ENGINEERING
+                              │
+             ┌────────────────┴────────────────┐
+             │                                 │
+        FRONTEND                           BACKEND
+             │                                 │
+       React / Next.js                   Node / Express
+             │                                 │
+       TypeScript                        REST APIs
+             │                                 │
+       UI Architecture                  Middleware
+             │                                 │
+             └──────────────┬──────────────────┘
+                            │
+                       DATABASES
+                            │
+                     MySQL / MongoDB
+                            │
+                            ▼
+                    AUTHENTICATION
+                            │
+                     JWT / bcrypt
+                            │
+                            ▼
+                    TESTING & SECURITY
+                            │
+                            ▼
+                       DOCKER / CI
+                            │
+                            ▼
+                      SYSTEM DESIGN
+```
+
+---
+
+# 🧠 Engineering Principles
+
 <table>
 <tr>
-<td>
 
-### 🔥 Now
+<td align="center">
 
-* Advanced Next.js
-* TypeScript
-* Backend Architecture
-* REST API Design
-* Authentication
-* Database Design
+### 🧹 Clean Code
+
+Readable, maintainable and structured code.
 
 </td>
 
-<td>
+<td align="center">
 
-### 🚀 Next
+### 🧩 Separation
 
-* Automated Testing
-* Docker
-* CI/CD
-* System Design
-* Production Architecture
+Keep responsibilities separated.
 
 </td>
+
+<td align="center">
+
+### 🔐 Security
+
+Authentication and API security matter.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ Data
+
+Design databases intentionally.
+
+</td>
+
+<td align="center">
+
+### ♻️ Reusability
+
+Build reusable components and logic.
+
+</td>
+
+<td align="center">
+
+### 📈 Growth
+
+Continuously improve engineering skills.
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🧩 Engineering Principles
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Clean_Code-181717?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Separation_of_Concerns-181717?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Secure_Authentication-181717?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Design-181717?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reusable_Components-181717?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API_Design-181717?style=for-the-badge" />
-
-</p>
-
----
-
-# 📚 Currently Learning
+# 🔥 What I'm Learning Next
 
 ```text
-Advanced Next.js
-      ↓
+Next.js Advanced
+       ↓
 TypeScript
-      ↓
+       ↓
 Backend Architecture
-      ↓
-REST API Design
-      ↓
-Authentication & Authorization
-      ↓
+       ↓
+API Design
+       ↓
+Authentication
+       ↓
 Database Optimization
-      ↓
+       ↓
 Testing
-      ↓
+       ↓
 Docker
-      ↓
+       ↓
 CI/CD
-      ↓
+       ↓
 System Design
 ```
 
 ---
 
-# 💡 Developer Mindset
+# 💭 Developer Mindset
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve;Write+Code+That+Others+Can+Understand;Build+Real+Projects%2C+Not+Just+Tutorials;Keep+Learning.+Keep+Building." alt="Developer Mindset" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Don't+just+write+code.+Understand+the+system.;Build+real+projects.;Debug+what+you+build.;Learn+from+every+mistake.;Improve+every+version." alt="Developer Mindset" />
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -427,10 +595,10 @@ System Design
 
 <p align="center">
 
-### ⚡ Build. Learn. Improve.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Build.;Learn.;Improve.;Repeat." alt="Footer Animation" />
 
 </p>
 
 <p align="center">
-  <sub>Designed & built with ❤️ by Hassan</sub>
+  <sub>Built with code, curiosity and continuous improvement.</sub>
 </p>
