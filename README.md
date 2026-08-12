@@ -1,26 +1,79 @@
 # 👋 Hi, I'm Hassan
 
-### Full-Stack Developer | Next.js • React • Node.js • Express.js
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+React+Developer;Node.js+%7C+Express.js+Developer;Backend+%26+API+Developer;Building+Real-World+Web+Applications" alt="Typing Animation" />
+</p>
 
-I build modern web applications with a focus on **clean architecture, RESTful APIs, authentication, database design, and responsive user interfaces.**
-
----
-
-## 🚀 About Me
-
-- 💻 Full-Stack Web Developer
-- ⚛️ Building modern applications with **React & Next.js**
-- 🟢 Developing backend systems with **Node.js & Express.js**
-- 🗄️ Working with **MySQL**
-- 🔐 Building authentication systems with **JWT, refresh tokens & bcrypt**
-- 🧩 Interested in **backend architecture, API design & database design**
-- 🌱 Continuously improving my **software engineering and system design** skills
+<p align="center">
+  <a href="https://github.com/Hassan2033">
+    <img src="https://img.shields.io/github/followers/Hassan2033?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Hassan2033?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ About Me
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 Full-Stack Developer
+
+I build modern web applications with a focus on:
+
+* ⚛️ **React & Next.js**
+* 🟢 **Node.js & Express.js**
+* 🗄️ **MySQL & MongoDB**
+* 🔐 **JWT Authentication**
+* 🔄 **Access & Refresh Tokens**
+* 🌐 **RESTful APIs**
+* 🧩 **Backend Architecture**
+* 📱 **Responsive UI**
+
+I'm focused on turning ideas into **clean, functional and scalable web applications**.
+
+</td>
+
+<td width="40%">
+
+```text
+const developer = {
+  name: "Hassan",
+  role: "Full-Stack Developer",
+
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js"
+  ],
+
+  database: [
+    "MySQL",
+    "MongoDB"
+  ],
+
+  focus: "Building"
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Tech Stack
+
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
@@ -38,7 +91,7 @@ I build modern web applications with a focus on **clean architecture, RESTful AP
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -46,127 +99,338 @@ I build modern web applications with a focus on **clean architecture, RESTful AP
 
 ### 🔐 Authentication & APIs
 
-<p>
+<p align="left">
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![bcrypt](https://img.shields.io/badge/bcrypt-338033?style=for-the-badge)
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge" />
 
 </p>
 
-### 🧰 Tools & Development
+### 🧰 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚛️ Frontend
+
+Modern responsive interfaces
+
+**React**
+**Next.js**
+**TypeScript**
+**Tailwind CSS**
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+Scalable server-side applications
+
+**Node.js**
+**Express.js**
+**REST APIs**
+**Middleware**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔐 Security
+
+Secure authentication systems
+
+**JWT**
+**Refresh Tokens**
+**bcrypt**
+**Protected Routes**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔐 Backend & Engineering
+# 🔐 Backend Engineering
 
-My current backend focus includes:
+```text
+Client
+  │
+  ▼
+Next.js / React
+  │
+  │ HTTP Request
+  ▼
+REST API
+  │
+  ▼
+Express.js
+  │
+  ├── Middleware
+  │
+  ├── Authentication
+  │
+  ├── Controllers
+  │
+  └── Routes
+  │
+  ▼
+Database
+  │
+  ├── MySQL
+  └── MongoDB
+```
 
-- RESTful API architecture
-- Express.js middleware
-- Route & controller separation
-- JWT authentication
-- Access & refresh token architecture
-- Protected routes
-- Authentication & authorization
-- Password hashing with bcrypt
-- MySQL database design
-- Environment configuration
-- CORS configuration
-- API error handling
-- Secure API development
+### 🔑 Authentication Architecture
+
+```text
+Register
+   │
+   ▼
+Password
+   │
+   ▼
+bcrypt Hash
+   │
+   ▼
+Database
+```
+
+```text
+Login
+   │
+   ▼
+Credentials
+   │
+   ▼
+bcrypt.compare()
+   │
+   ▼
+Access Token
+   │
+   ▼
+Protected API
+```
+
+```text
+Access Token
+    │
+    │ expires
+    ▼
+Refresh Token
+    │
+    ▼
+New Access Token
+```
 
 ---
 
-## 📌 Featured Projects
+# 🌟 Featured Projects
 
-### ✈️ TripNest — Smart Travel Booking Platform
+<table>
+<tr>
+<td width="50%">
 
-A smart travel booking platform built around a real-world travel experience.
+## ✈️ TripNest
 
-**Features:**
+### Smart Travel Booking Platform
 
-- 🔐 User authentication
-- ❤️ Wishlist
-- 🎫 Booking preview
-- 🗺️ Interactive map
-- 🎟️ Digital boarding pass
-- 🔳 QR code functionality
-- 📄 PDF generation
-- 📱 Responsive interface
+A real-world travel booking application focused on a complete digital travel experience.
 
-**Focus:** Frontend development • APIs • UI/UX • Real-world application development
+**Features**
 
----
+* 🔐 Authentication
+* ❤️ Wishlist
+* 🎫 Booking Preview
+* 🗺️ Interactive Map
+* 🎟️ Digital Boarding Pass
+* 🔳 QR Code
+* 📄 PDF Generation
+* 📱 Responsive UI
 
-### 🔧 FixFinders
+</td>
 
-A practical web application project focused on solving a real-world problem through a structured web interface.
+<td width="50%">
 
-🔗 **Repository:**  
+## 🔧 FixFinders
+
+### Real-World Web Application
+
+A practical web application project focused on solving a real-world problem through a structured and user-friendly interface.
+
+🔗 **Repository**
+
 https://github.com/Hassan2033/FixFinders
 
----
+</td>
+</tr>
 
-### 👁️ Vision Project
+<tr>
+<td width="50%">
 
-A web development project focused on building a functional application with a modern frontend.
+## 👁️ Vision Project
 
-🔗 **Repository:**  
+### Web Application
+
+A web development project focused on building a functional application with a modern frontend and structured project architecture.
+
+🔗 **Repository**
+
 https://github.com/Hassan2033/vision-project
 
+</td>
+
+<td width="50%">
+
+### 🚧 More Projects
+
+Currently building and improving full-stack applications around:
+
+* Next.js
+* Express.js
+* MySQL
+* Authentication
+* REST APIs
+* Full-stack architecture
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-
-![GitHub Followers](https://img.shields.io/github/followers/Hassan2033?style=for-the-badge&logo=github)
-
-![GitHub Stars](https://img.shields.io/github/stars/Hassan2033?style=for-the-badge&logo=github)
-
-![GitHub Repositories](https://img.shields.io/badge/Repositories-Open_Source-181717?style=for-the-badge&logo=github)
-
-</p>
-
----
-
-## 📈 Contribution Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan2033&hide_border=true"
-    alt="Hassan's GitHub Contribution Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan2033&hide_border=true&area=true"
+    alt="Hassan's GitHub Activity"
   />
 </p>
 
 ---
 
-## 🎯 Current Development Focus
+# 📈 Development Journey
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=HTML+%2B+CSS;JavaScript;React;Next.js;Node.js;Express.js;MySQL+%2B+MongoDB;Authentication;REST+APIs;Full-Stack+Development;System+Design" alt="Development Journey" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+<table>
+<tr>
+<td>
+
+### 🔥 Now
+
+* Advanced Next.js
+* TypeScript
+* Backend Architecture
+* REST API Design
+* Authentication
+* Database Design
+
+</td>
+
+<td>
+
+### 🚀 Next
+
+* Automated Testing
+* Docker
+* CI/CD
+* System Design
+* Production Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 Engineering Principles
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Clean_Code-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Separation_of_Concerns-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Secure_Authentication-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database_Design-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reusable_Components-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API_Design-181717?style=for-the-badge" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
 
 ```text
-Next.js
-   ↓
-React & TypeScript
-   ↓
+Advanced Next.js
+      ↓
+TypeScript
+      ↓
 Backend Architecture
-   ↓
-Node.js + Express.js
-   ↓
-RESTful APIs
-   ↓
+      ↓
+REST API Design
+      ↓
 Authentication & Authorization
-   ↓
-MySQL Database Design
-   ↓
+      ↓
+Database Optimization
+      ↓
 Testing
-   ↓
-Docker & CI/CD
-   ↓
+      ↓
+Docker
+      ↓
+CI/CD
+      ↓
 System Design
+```
+
+---
+
+# 💡 Developer Mindset
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve;Write+Code+That+Others+Can+Understand;Build+Real+Projects%2C+Not+Just+Tutorials;Keep+Learning.+Keep+Building." alt="Developer Mindset" />
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Hassan2033">
+<img src="https://img.shields.io/badge/GitHub-Hassan2033-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Build. Learn. Improve.
+
+</p>
+
+<p align="center">
+  <sub>Designed & built with ❤️ by Hassan</sub>
+</p>
