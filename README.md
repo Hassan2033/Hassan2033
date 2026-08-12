@@ -1,53 +1,56 @@
-# 👋 Hi, I'm Hassan
+# ⚡ Hassan Fayyaz
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=HASSAN%20FAYYAZ&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12&text=HASSAN%20FAYYAZ&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Next.js+%7C+React+Developer;Node.js+%7C+Express.js+Developer;Backend+%26+API+Developer;Building+Real-World+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Next.js+%7C+React+Engineer;Node.js+%7C+Express.js+Developer;REST+API+%7C+Authentication+Developer;Building+Real-World+Applications" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Hassan2033">
-    <img src="https://img.shields.io/badge/GitHub-Hassan2033-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Hassan2033-161B22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Hassan2033?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-238636?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20Projects-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hassan2033&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## 🧑‍💻 Who Am I?
+# 🧑‍💻 Developer Profile
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%">
 
-### 🚀 Full-Stack Developer
+## 👋 Hello, I'm Hassan
 
-I build modern web applications by combining **frontend engineering, backend development, APIs, authentication, and databases**.
+I'm a **Full-Stack Developer** focused on building modern web applications across the complete application stack.
 
-My current development path is centered around:
+My development work combines:
 
-* ⚛️ React & Next.js
-* 🟦 TypeScript
-* 🟢 Node.js & Express.js
-* 🗄️ MySQL & MongoDB
-* 🔐 JWT Authentication
-* 🔄 Refresh Token Architecture
-* 🌐 RESTful APIs
-* 🧩 Backend Architecture
+* ⚛️ Modern frontend development
+* ⚙️ Backend API development
+* 🔐 Authentication & authorization
+* 🗄️ Relational & NoSQL databases
+* 🧩 Application architecture
+* 📱 Responsive interfaces
 
-I'm focused on becoming a developer who can understand the **complete application lifecycle**, from UI to API to database.
+My goal is not simply to write code — it's to understand **how the complete system works**.
 
 </td>
 
-<td width="45%">
+<td width="42%">
 
 ```js
-const hassan = {
+const developer = {
+  name: "Hassan",
   role: "Full-Stack Developer",
 
   frontend: [
@@ -66,14 +69,14 @@ const hassan = {
     "MongoDB"
   ],
 
-  architecture: [
-    "REST APIs",
-    "JWT Auth",
-    "MVC"
+  security: [
+    "JWT",
+    "bcrypt",
+    "Refresh Tokens"
   ],
 
-  mindset:
-    "Build • Learn • Improve"
+  philosophy:
+    "Build → Learn → Improve"
 };
 ```
 
@@ -83,18 +86,16 @@ const hassan = {
 
 ---
 
-# ⚡ What I Build
+# ⚡ Engineering Stack
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-### 🎨
+<img src="https://skillicons.dev/icons?i=react,nextjs" width="100"/>
 
-## Frontend
-
-Modern interfaces
+### FRONTEND
 
 React
 Next.js
@@ -105,11 +106,9 @@ Tailwind CSS
 
 <td align="center" width="25%">
 
-### ⚙️
+<img src="https://skillicons.dev/icons?i=nodejs,express" width="100"/>
 
-## Backend
-
-Application servers
+### BACKEND
 
 Node.js
 Express.js
@@ -120,31 +119,27 @@ Middleware
 
 <td align="center" width="25%">
 
-### 🔐
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" width="100"/>
 
-## Security
+### DATABASE
 
-Authentication systems
-
-JWT
-bcrypt
-Refresh Tokens
-Protected Routes
+MySQL
+MongoDB
+Queries
+Relationships
 
 </td>
 
 <td align="center" width="25%">
 
-### 🗄️
+<img src="https://skillicons.dev/icons?i=git,github" width="100"/>
 
-## Data
+### TOOLING
 
-Database systems
-
-MySQL
-MongoDB
-Relationships
-Queries
+Git
+GitHub
+Postman
+VS Code
 
 </td>
 
@@ -155,31 +150,31 @@ Queries
 
 # 🛠️ Technology Arsenal
 
-## 💻 Languages
+### 💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 </p>
 
-## 🗄️ Databases
+### 🗄️ Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## 🔐 APIs & Authentication
+### 🔐 Authentication & API
 
 <p align="center">
 
@@ -189,75 +184,77 @@ Queries
 
 </p>
 
-## 🧰 Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
 ---
 
 # 🏗️ Full-Stack Architecture
 
-<p align="center">
-
 ```text
-┌──────────────────────────────────────────────┐
-│                  CLIENT                      │
-│              React / Next.js                 │
-└──────────────────────┬───────────────────────┘
-                       │
-                       │ HTTP / REST
-                       ▼
-┌──────────────────────────────────────────────┐
-│                    API                       │
-│              Node.js / Express               │
-├──────────────────────────────────────────────┤
-│ Routes → Middleware → Controllers            │
-│ Authentication → Validation → Error Handler  │
-└──────────────────────┬───────────────────────┘
-                       │
-                       ▼
-┌──────────────────────────────────────────────┐
-│                 DATABASE                     │
-│              MySQL / MongoDB                 │
-└──────────────────────────────────────────────┘
+                         USER
+                           │
+                           ▼
+                ┌───────────────────┐
+                │   React / Next.js │
+                │    Frontend UI     │
+                └─────────┬─────────┘
+                          │
+                     HTTP / REST
+                          │
+                          ▼
+                ┌───────────────────┐
+                │   Express.js API  │
+                ├───────────────────┤
+                │ Routes            │
+                │ Middleware        │
+                │ Authentication    │
+                │ Controllers       │
+                │ Error Handling    │
+                └─────────┬─────────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │  Business Logic   │
+                └─────────┬─────────┘
+                          │
+                          ▼
+              ┌─────────────────────────┐
+              │       DATABASE          │
+              │                         │
+              │   MySQL / MongoDB       │
+              └─────────────────────────┘
 ```
-
-</p>
 
 ---
 
-# 🔐 Authentication Architecture
+# 🔐 Authentication System
 
 ### Registration
 
 ```text
-User
+USER
  │
  ▼
-Register API
+POST /register
  │
  ▼
 Validate Input
  │
  ▼
-bcrypt.hash()
+bcrypt.hash(password)
+ │
+ ▼
+Save User
  │
  ▼
 Database
- │
- ▼
-Account Created
 ```
 
 ### Login
 
 ```text
-User
+USER
  │
  ▼
-Login API
+POST /login
  │
  ▼
 Find User
@@ -266,63 +263,80 @@ Find User
 bcrypt.compare()
  │
  ▼
-Generate Access Token
+Access Token
  │
  ▼
-Generate Refresh Token
+Refresh Token
  │
  ▼
-Authenticated Session
+Authenticated Client
 ```
 
-### Protected Request
+### Protected API
 
 ```text
-Client
+CLIENT
  │
- │ Authorization: Bearer <access_token>
+ │ Authorization: Bearer <token>
  ▼
-Auth Middleware
+JWT Middleware
  │
  ▼
 jwt.verify()
  │
- ├── Invalid → 401
- │
- └── Valid
-       │
-       ▼
-    Controller
-       │
-       ▼
-    Response
+ ├───────────────┐
+ │               │
+ ▼               ▼
+INVALID         VALID
+ │               │
+401              ▼
+             CONTROLLER
+                 │
+                 ▼
+              RESPONSE
 ```
 
 ---
 
-# 🔄 Backend Development Flow
+# 🌐 API Development
 
 ```text
-Requirement
-     ↓
-API Design
-     ↓
+HTTP Request
+     │
+     ▼
 Route
-     ↓
+     │
+     ▼
 Middleware
-     ↓
+     │
+     ├── CORS
+     ├── Authentication
+     ├── Validation
+     └── Authorization
+     │
+     ▼
 Controller
-     ↓
+     │
+     ▼
 Business Logic
-     ↓
+     │
+     ▼
 Database
-     ↓
-Validation
-     ↓
-Error Handling
-     ↓
-Response
+     │
+     ▼
+HTTP Response
 ```
+
+### API Principles
+
+| Layer          | Responsibility                   |
+| -------------- | -------------------------------- |
+| Routes         | Define endpoints                 |
+| Middleware     | Cross-cutting request processing |
+| Controllers    | Handle requests/responses        |
+| Business Logic | Application rules                |
+| Database       | Persistent data                  |
+| Error Handler  | Consistent API errors            |
 
 ---
 
@@ -333,18 +347,18 @@ Response
 
 <td width="50%">
 
-## ✈️ TripNest
+# ✈️ TripNest
 
 ### Smart Travel Booking Platform
 
-A real-world travel platform designed around the complete booking experience.
+A travel booking platform designed around a complete digital travel experience.
 
-### Features
+### ✨ Features
 
 * 🔐 Authentication
 * ❤️ Wishlist
 * 🎫 Booking Preview
-* 🗺️ Interactive Map
+* 🗺️ Interactive Maps
 * 🎟️ Digital Boarding Pass
 * 🔳 QR Code
 * 📄 PDF Generation
@@ -352,13 +366,13 @@ A real-world travel platform designed around the complete booking experience.
 
 ### Focus
 
-`Frontend` `APIs` `UI/UX` `Real-World Application`
+`Web Development` `UI/UX` `APIs` `Real-World Application`
 
 </td>
 
 <td width="50%">
 
-## 🔧 FixFinders
+# 🔧 FixFinders
 
 ### Practical Web Application
 
@@ -367,13 +381,13 @@ A real-world application project focused on solving a practical problem through 
 ### Focus
 
 * Modern frontend
-* Structured application flow
 * Responsive interface
-* Real-world problem solving
+* Application structure
+* Practical problem solving
 
 ### Repository
 
-**[→ View FixFinders](https://github.com/Hassan2033/FixFinders)**
+**[→ Explore FixFinders](https://github.com/Hassan2033/FixFinders)**
 
 </td>
 
@@ -383,42 +397,39 @@ A real-world application project focused on solving a practical problem through 
 
 <td width="50%">
 
-## 👁️ Vision Project
+# 👁️ Vision Project
 
 ### Web Application
 
-A web development project focused on creating a functional application with a modern frontend.
+A functional web development project focused on modern frontend implementation.
 
 ### Focus
 
 * Frontend development
-* Application structure
 * Responsive UI
+* Application structure
 * Practical implementation
 
 ### Repository
 
-**[→ View Vision Project](https://github.com/Hassan2033/vision-project)**
+**[→ Explore Vision Project](https://github.com/Hassan2033/vision-project)**
 
 </td>
 
 <td width="50%">
 
-## 🚧 More Coming
+# 🚧 Next Build
 
-Currently expanding my portfolio with projects around:
+I'm continuously expanding my portfolio with projects focused on:
 
-`Next.js`
-
-`Express.js`
-
-`MySQL`
-
-`Authentication`
-
-`REST APIs`
-
-`Full-Stack Architecture`
+```text
+Next.js
+Express.js
+MySQL
+Authentication
+REST APIs
+Full-Stack Architecture
+```
 
 </td>
 
@@ -432,56 +443,64 @@ Currently expanding my portfolio with projects around:
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan2033&hide_border=true&area=true"
-    alt="Hassan's GitHub Activity Graph"
     width="100%"
+    alt="GitHub Activity"
   />
+</p>
+
+---
+
+# 🧭 Development Journey
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=HTML+%2B+CSS;JavaScript;React;Next.js;TypeScript;Node.js;Express.js;MySQL+%2B+MongoDB;REST+APIs;JWT+Authentication;Full-Stack+Development;System+Design" />
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Advanced+Next.js;TypeScript;Backend+Architecture;REST+API+Design;Authentication+%26+Authorization;Database+Design;Testing;Docker+%26+CI%2FCD;System+Design" alt="Current Focus" />
-</p>
+<table>
+<tr>
 
----
+<td width="50%">
 
-# 📚 Development Roadmap
+## 🔥 NOW
 
 ```text
-                    FULL-STACK ENGINEERING
-                              │
-             ┌────────────────┴────────────────┐
-             │                                 │
-        FRONTEND                           BACKEND
-             │                                 │
-       React / Next.js                   Node / Express
-             │                                 │
-       TypeScript                        REST APIs
-             │                                 │
-       UI Architecture                  Middleware
-             │                                 │
-             └──────────────┬──────────────────┘
-                            │
-                       DATABASES
-                            │
-                     MySQL / MongoDB
-                            │
-                            ▼
-                    AUTHENTICATION
-                            │
-                     JWT / bcrypt
-                            │
-                            ▼
-                    TESTING & SECURITY
-                            │
-                            ▼
-                       DOCKER / CI
-                            │
-                            ▼
-                      SYSTEM DESIGN
+Advanced Next.js
+       ↓
+TypeScript
+       ↓
+Backend Architecture
+       ↓
+REST API Design
+       ↓
+Authentication
 ```
+
+</td>
+
+<td width="50%">
+
+## 🚀 NEXT
+
+```text
+Database Optimization
+       ↓
+Testing
+       ↓
+Docker
+       ↓
+CI/CD
+       ↓
+System Design
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -494,7 +513,7 @@ Currently expanding my portfolio with projects around:
 
 ### 🧹 Clean Code
 
-Readable, maintainable and structured code.
+Readable and maintainable code.
 
 </td>
 
@@ -502,7 +521,7 @@ Readable, maintainable and structured code.
 
 ### 🧩 Separation
 
-Keep responsibilities separated.
+Keep responsibilities isolated.
 
 </td>
 
@@ -510,7 +529,7 @@ Keep responsibilities separated.
 
 ### 🔐 Security
 
-Authentication and API security matter.
+Protect data and APIs.
 
 </td>
 
@@ -530,7 +549,7 @@ Design databases intentionally.
 
 ### ♻️ Reusability
 
-Build reusable components and logic.
+Build reusable components.
 
 </td>
 
@@ -538,7 +557,7 @@ Build reusable components and logic.
 
 ### 📈 Growth
 
-Continuously improve engineering skills.
+Improve continuously.
 
 </td>
 
@@ -547,28 +566,68 @@ Continuously improve engineering skills.
 
 ---
 
-# 🔥 What I'm Learning Next
+# 🔄 How I Approach Development
 
 ```text
-Next.js Advanced
-       ↓
-TypeScript
-       ↓
-Backend Architecture
-       ↓
-API Design
-       ↓
-Authentication
-       ↓
-Database Optimization
-       ↓
-Testing
-       ↓
-Docker
-       ↓
-CI/CD
-       ↓
-System Design
+┌──────────────────────┐
+│      REQUIREMENT     │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│     ARCHITECTURE     │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│    IMPLEMENTATION    │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│       TESTING        │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│       DEBUGGING      │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│     IMPROVEMENT      │
+└──────────────────────┘
+```
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+                 FULL-STACK ENGINEERING
+                          │
+             ┌────────────┴────────────┐
+             │                         │
+        FRONTEND                    BACKEND
+             │                         │
+      React / Next.js             Node / Express
+      TypeScript                  REST APIs
+      UI Architecture             Middleware
+             │                         │
+             └────────────┬────────────┘
+                          │
+                       DATABASE
+                          │
+                   MySQL / MongoDB
+                          │
+                          ▼
+                    AUTHENTICATION
+                          │
+                    JWT / bcrypt
+                          │
+                          ▼
+                       TESTING
+                          │
+                          ▼
+                    DOCKER / CI/CD
+                          │
+                          ▼
+                    SYSTEM DESIGN
 ```
 
 ---
@@ -576,7 +635,9 @@ System Design
 # 💭 Developer Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Don't+just+write+code.+Understand+the+system.;Build+real+projects.;Debug+what+you+build.;Learn+from+every+mistake.;Improve+every+version." alt="Developer Mindset" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Don't+just+write+code.+Understand+the+system.;Build+real+projects.;Debug+what+you+build.;Learn+from+mistakes.;Improve+every+version.;Keep+building." />
+
 </p>
 
 ---
@@ -595,10 +656,12 @@ System Design
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Build.;Learn.;Improve.;Repeat." alt="Footer Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%" />
 
 </p>
 
 <p align="center">
-  <sub>Built with code, curiosity and continuous improvement.</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Build.;Learn.;Improve.;Repeat." />
+
 </p>
